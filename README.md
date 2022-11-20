@@ -14,7 +14,4 @@ ERROR HANDLING:
 * This program has its own custom exception type: Text Invalid Exception.
 * This program has error check for every user input to ensure that all inputs are valid.
 ***
-PROGRAM LIMITATIONS:
 
-* This program does not have a quit option, it can only be quitted manually.
-***
